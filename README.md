@@ -1,1 +1,1 @@
-# prediction-market-hook
+# Balancer Prediction Market Hook
